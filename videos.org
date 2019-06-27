@@ -1,0 +1,23 @@
+#+TITLE: Video Feeds and Youtube Channels
+#+AUTHOR: Edward Minnix III
+#+OPTIONS: H:nil num:t toc:t date:nil
+
+* Videos                                                             :elfeed:
+** Youtube Channels                                                 :youtube:
+*** Cooking                                                         :cooking:
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC9_p50tH3WmMslWRWKnM7dQ][Adam Ragusea]]
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw][Chinese Cooking Demystified]]                                   
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w][You Suck at Cooking]]
+*** Linguistics                                                    :language:
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMk_WSPy3EE16aK5HLzCJzw][NativLang]]                                                       
+**** Conlanging                                                     :conlang:
+***** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMjTcpv56G_W0FRIdPHBn4A][Bibilaridion]]                                                   
+***** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCJOh5FKisc0hUlEeWFBlD-w][Conlang Critic]]                                               :mustread:
+***** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCgJSf-fmdfUsSlcr7A92-aA][David Peterson]]
+*** Mathematics
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCoxcjq-8xIDTYp3uz647V5A][Numberphile]]
+*** Philosophy
+**** Stoicism
+*** Religion                                                       :religion:
+**** [[https://youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA][The Bible Project]]                                             :mustread:
+*** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCVo63lbKHjC04KqYhwSZ_Pg][Defunctland]]

@@ -1,0 +1,41 @@
+#+TITLE: Feeds
+#+AUTHOR: Edward Minnix III
+#+OPTIONS: H:nil num:t toc:t date:nil
+
+#+BEGIN_ABSTRACT
+This document follows the convetions of the [[https://github.com/remyhonig/elfeed-org][elfeed-org]] Emacs
+package. It is used to aggregate blogs and Youtube channels that I
+personally enjoy.
+#+END_ABSTRACT
+
+* Blogs                                                              :elfeed:
+** entry-title: \(linux\|linus\|ubuntu\|kde\|gnome\)                  :linux:
+** Software Development
+*** https://nullprogram.com/feeds                                  :mustread:
+*** https://blog.mozilla.org/feed
+*** Emacs                                                             :emacs:
+**** https://www.reddit.com/r/emacs/top/.rss
+	 The top posts of r/emacs
+**** https://planet.emacslife.com/atom.xml
+**** http://howardism.org/index.xml
+*** Linux
+**** https://www.phoronix.com/rss.php
+** Security                                                           :cysec:
+*** http://blog.cryptographyengineering.com/feeds/posts/default    :mustread:
+*** https://krebsonsecurity.com/feed
+*** https://liveoverflow.com/rss                                   :mustread:
+*** https://blog.trailofbits.com/feed
+*** http://blog.mozilla.com/security/feed/
+** Linguistics                                                     :language:
+*** http://specgram.com/rss.xml
+	[[http://specgram.com/about.html][Speculative Grammarian]] is the premier scholarly journal featuring
+	research in the neglected field of satirical linguistics.
+** Comics                                                            :comics:
+*** [[https://www.xkcd.com/rss.xml][xkcd]]                                                           :mustread:
+	A webcomic of romance, sarcasm, math, and language.
+** Cooking                                                          :cooking:
+** Philosophy
+*** Stoicism
+** http://feeds.feedburner.com/InformationIsBeautiful
+** https://windowsontheory.org/
+
