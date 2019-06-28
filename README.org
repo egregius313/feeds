@@ -1,8 +1,6 @@
 #+TITLE: Feeds
 #+AUTHOR: Edward Minnix III
 
-* Feeds
-
 This repo manages my RSS feeds.
 
 It follows the conventions of [[https://github.com/remyhonig/elfeed-org][elfeed-org]] and is meant to be used with
