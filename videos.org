@@ -1,6 +1,6 @@
 #+TITLE: Video Feeds and Youtube Channels
 #+AUTHOR: Edward Minnix III
-#+OPTIONS: H:nil num:t toc:t date:nil
+#+OPTIONS: H:nil num:nil toc:t date:nil
 
 * Videos                                                             :elfeed:
 ** Youtube Channels                                                 :youtube:
