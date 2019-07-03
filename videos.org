@@ -6,8 +6,10 @@
 ** Youtube Channels                                                 :youtube:
 *** Cooking                                                         :cooking:
 **** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC9_p50tH3WmMslWRWKnM7dQ][Adam Ragusea]]
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCJHA_jMfCvEnv-3kRjTCQXw][Binging with Babish]]
 **** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw][Chinese Cooking Demystified]]                                   
-**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w][You Suck at Cooking]]
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCRIZtPl9nb9RiXc9btSTQNw][Food Wishes]]
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w][You Suck at Cooking]]                                           :mustread:
 *** Linguistics                                                    :language:
 **** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMk_WSPy3EE16aK5HLzCJzw][NativLang]]                                                       
 **** Conlanging                                                     :conlang:
