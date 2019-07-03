@@ -7,13 +7,25 @@
 *** Cooking                                                         :cooking:
 **** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC9_p50tH3WmMslWRWKnM7dQ][Adam Ragusea]]
 **** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCJHA_jMfCvEnv-3kRjTCQXw][Binging with Babish]]
-**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw][Chinese Cooking Demystified]]                                   
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UC54SLBnD5k5U3Q6N__UjbAw][Chinese Cooking Demystified]]
+
+	 A Western expat and his Chinese wife who teach the rest of the
+	 world about Chinese cooking.
+
 **** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCRIZtPl9nb9RiXc9btSTQNw][Food Wishes]]
 **** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCekQr9znsk2vWxBo3YiLq2w][You Suck at Cooking]]                                           :mustread:
+
+	 A fun, light-hearted and often ridiculous series of cooking. In
+	 the words of the show's host:
+
+	 #+BEGIN_QUOTE
+	 No bullshit. Just cooking. (Except for all the bullshit)
+	 #+END_QUOTE
+
 *** Linguistics                                                    :language:
-**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMk_WSPy3EE16aK5HLzCJzw][NativLang]]                                                       
+**** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMk_WSPy3EE16aK5HLzCJzw][NativLang]]
 **** Conlanging                                                     :conlang:
-***** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMjTcpv56G_W0FRIdPHBn4A][Bibilaridion]]                                                   
+***** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCMjTcpv56G_W0FRIdPHBn4A][Bibilaridion]]
 ***** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCJOh5FKisc0hUlEeWFBlD-w][Conlang Critic]]                                               :mustread:
 ***** [[https://www.youtube.com/feeds/videos.xml?channel_id=UCgJSf-fmdfUsSlcr7A92-aA][David Peterson]]
 *** Mathematics
